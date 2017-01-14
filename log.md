@@ -29,7 +29,7 @@ It was a rough start due to some VRTK upgrade issues, but once I got the table s
 Next up: Getting the puppets to cycle through all options as the spinner turns.
 
 #### Link(s) to work
-[Spinning Spinner](https://github.com/bjennings76/unity-vr-puppeteer/blob/master/Captures/Day%20002%20-%20Spinner.gif)
+[Spinning Spinner](https://github.com/bjennings76/100-days-of-code/blob/master/Captures/Day%20002%20-%20Spinner.gif)
 
 
 ### Day 3: January 11, Wednesday
@@ -43,7 +43,7 @@ Next up: Getting the puppets to cycle through all options as the spinner turns.
 Ran in to an interesting problem where I would like to have bespoke object prefabs that can be instanced along with a list of objects created dynamically from a single object through sub-object changes (swapping costumes on a single character, for instance). This forced me to think out exactly how to create a list of objects that don't yet exist. I'm exploring the idea of a list of item creators which would have a default creator for prefab version and customized create functions for the dynamic objects. Wasn't able to finish it up, but I should have a list of object creators to cycle through tomorrow.
 
 #### Link(s) to work
-[Changing Room Capture](https://github.com/bjennings76/unity-vr-puppeteer/blob/master/Captures/Day%20003%20-%20Magic%20Changing%20Room.gif)
+[Changing Room Capture](https://github.com/bjennings76/100-days-of-code/blob/master/Captures/Day%20003%20-%20Magic%20Changing%20Room.gif)
 
 
 ### Day 4: January 12, Wednesday
@@ -56,7 +56,7 @@ Ran in to an interesting problem where I would like to have bespoke object prefa
 Most of the work is under the hood, but it'll be pretty slick to use going forward. I'm especially proud of keeping the item generation classes small and legible.
 
 
-### Day 5: January 11, Wednesday
+### Day 5: January 13, Thursday
 
 #### Today's Progress
 1. Upgraded to SteamVR 1.2
@@ -67,7 +67,23 @@ Most of the work is under the hood, but it'll be pretty slick to use going forwa
 Nice to see some visible progress today and was happy to be able to capture the end result.
 
 #### Link(s) to work
-[Item Carousel swapping models](https://github.com/bjennings76/unity-vr-puppeteer/blob/master/Captures/Day%20005%20-%20Puppet%20Carousel%20Swapping%20Models.gif)
+[Item Carousel swapping models](https://github.com/bjennings76/100-days-of-code/blob/master/Captures/Day%20005%20-%20Puppet%20Carousel%20Swapping%20Models.gif)
+
+
+### Day 6: January 14, Friday
+
+#### Today's Progress
+1. Added label names to Item Spinner
+2. Added dynamic slot count to Item Spinner
+
+#### Thoughts
+Got a bonus out of thinking about how to efficiently add labels to the item spinner. I need to create a template and noticed all the item slots were the same except 45 degree rotations which could easily be deduced by `360 / SlotCount`. Decided now that I had item slot templates, I could easily set them up to dynamically distribute themselves.
+
+It's especially great having a decent util library built up. I was able to simply do `name.ToSpacedName()` and get file asset names to clean themselves up in no time. No lengthy regex research needed.
+
+
+#### Link(s) to work
+[Item Carousel with labels and dynamic slot placement](https://github.com/bjennings76/100-days-of-code/blob/master/Captures/Day%20006%20-%20Puppet%20Carousel%20Labels%20and%20Placement.gif)
 
 <!-- Template
 
