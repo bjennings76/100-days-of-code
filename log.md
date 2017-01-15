@@ -46,7 +46,7 @@ Ran in to an interesting problem where I would like to have bespoke object prefa
 ![Changing Room Capture](Captures/Day%20003%20-%20Magic%20Changing%20Room.gif)
 
 
-### Day 4: January 12, Wednesday
+### Day 4: January 12, Thursday
 
 #### Today's Progress
 1. Puppets now are dynamically placed onto the spinner.
@@ -56,7 +56,7 @@ Ran in to an interesting problem where I would like to have bespoke object prefa
 Most of the work is under the hood, but it'll be pretty slick to use going forward. I'm especially proud of keeping the item generation classes small and legible.
 
 
-### Day 5: January 13, Thursday
+### Day 5: January 13, Friday
 
 #### Today's Progress
 1. Upgraded to SteamVR 1.2
@@ -70,7 +70,7 @@ Nice to see some visible progress today and was happy to be able to capture the 
 ![Item Carousel swapping models](Captures/Day%20005%20-%20Puppet%20Carousel%20Swapping%20Models.gif)
 
 
-### Day 6: January 14, Friday
+### Day 6: January 14, Saturday
 
 #### Today's Progress
 1. Added label names to Item Spinner
@@ -81,11 +81,21 @@ Got a bonus out of thinking about how to efficiently add labels to the item spin
 
 It's especially great having a decent util library built up. I was able to simply do `name.ToSpacedName()` and get file asset names to clean themselves up in no time. No lengthy regex research needed.
 
-
 #### Link(s) to work
 ![Item Carousel with labels and dynamic slot placement](Captures/Day%20006%20-%20Puppet%20Carousel%20Labels%20and%20Placement.gif)
 
 
+### Day 7: January 15, Sunday
+
+#### Today's Progress
+1. Stylized/increased resolution of the curtains
+2. Fixed a few bugs and inconsistencies
+
+#### Thoughts
+Not much actual coding today. Mostly just asset upkeep, but the curtains are looking better.
+
+#### Link(s) to work
+![Curtain Cleanup](Captures/Day%20007%20-%20Curtians%20Cleanup.gif)
 
 <!-- Template
 
