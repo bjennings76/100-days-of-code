@@ -97,6 +97,19 @@ Not much actual coding today. Mostly just asset upkeep, but the curtains are loo
 #### Link(s) to work
 ![Curtain Cleanup](Captures/Day%20007%20-%20Curtians%20Cleanup.gif)
 
+
+### Day 8: January 16, Monday
+
+#### Today's Progress
+1. Disabled collision for items spawned onto the item wheel
+2. Started work on supporting object duplication on grab of an item on the wheel.
+
+#### Thoughts
+Did lots of research into the right way to grab an object. Thought about looking into the new SteamVR interaction scripts, but decided to stick with VRTK for now. Pulled some code out of the `VRTK_ObjectAutoGrab.cs` script. Not exactly working like I'd like it to, though. Will work on it more tomorrow.
+
+#### Link(s) to work
+[Grab Commit (WIP)](https://github.com/bjennings76/unity-vr-puppeteer/commit/f37af09e0ef644ac5bc51c404360876ed1791981)
+
 <!-- Template
 
 
