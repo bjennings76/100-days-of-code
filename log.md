@@ -110,6 +110,19 @@ Did lots of research into the right way to grab an object. Thought about looking
 #### Link(s) to work
 [Grab Commit (WIP)](https://github.com/bjennings76/unity-vr-puppeteer/commit/f37af09e0ef644ac5bc51c404360876ed1791981)
 
+
+### Day 9: January 17, Tuesday
+
+#### Today's Progress
+1. Fixed issues with spawning an item from an item slot
+2. Some objects can now be optionally hidden in the item slot preview
+
+#### Thoughts
+Pretty good progress, but I wasn't able to get the Item Slot to push the new item directly onto the controller. Until I can figure out the problem, the new item simply spawns in the middle of the wheel.
+
+#### Link(s) to work
+![Curtain Cleanup](Captures/Day%20009%20-%20Spawned%20Item.gif)
+
 <!-- Template
 
 
