@@ -123,6 +123,20 @@ Pretty good progress, but I wasn't able to get the Item Slot to push the new ite
 #### Link(s) to work
 ![Curtain Cleanup](Captures/Day%20009%20-%20Spawned%20Item.gif)
 
+
+### Day 10: January 18, Wednesday
+
+#### Today's Progress
+1. Added item type selection buttons to item carousel
+2. Added editor script to auto-restart unity on compile
+3. Added editor script to stop play mode with 'escape' key
+
+#### Thoughts
+Spent a lot of time thinking about exactly how to switch categories. Settled on using buttons on the spinner that rotate with the rest of the object. Not sure if it'll be confusing or not. Playtesting should be interesting.
+
+#### Link(s) to work
+![Item Type Selection Buttons](Captures/Day%20010%20-%20Item%20Type%20Selection.gif)
+
 <!-- Template
 
 
@@ -134,4 +148,5 @@ Pretty good progress, but I wasn't able to get the Item Slot to push the new ite
 #### Thoughts
 
 #### Link(s) to work
+
 -->
