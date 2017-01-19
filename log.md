@@ -137,6 +137,20 @@ Spent a lot of time thinking about exactly how to switch categories. Settled on 
 #### Link(s) to work
 ![Item Type Selection Buttons](Captures/Day%20010%20-%20Item%20Type%20Selection.gif)
 
+
+### Day 3: January 11, Wednesday
+
+#### Today's Progress
+1. Set up buttons to swap out various item types
+2. Created item type configs to use for changing item types on the spinner
+3. Updated item type creation to work with the default scale of the SimpleFantasy assets
+
+#### Thoughts
+Pretty straight forward stuff. I'm digging the `ScriptableObject` stuff. I like how easy it is to create them now by simply adding `[CreateAssetMenu]`. It was also nice to off-load a lot of properties from `ItemDispensor` into the `ItemType` scriptable objects.
+
+#### Link(s) to work
+![Working Item Type Selection](Captures/Day%20011%20-%20Working%20Item%20Type%20Selection.gif)
+
 <!-- Template
 
 
