@@ -138,7 +138,7 @@ Spent a lot of time thinking about exactly how to switch categories. Settled on 
 ![Item Type Selection Buttons](Captures/Day%20010%20-%20Item%20Type%20Selection.gif)
 
 
-### Day 3: January 11, Wednesday
+### Day 11: January 19, Thursday
 
 #### Today's Progress
 1. Set up buttons to swap out various item types
