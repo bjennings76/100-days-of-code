@@ -151,6 +151,18 @@ Pretty straight forward stuff. I'm digging the `ScriptableObject` stuff. I like 
 #### Link(s) to work
 ![Working Item Type Selection](Captures/Day%20011%20-%20Working%20Item%20Type%20Selection.gif)
 
+
+### Day 12: January 20, Friday
+
+#### Today's Progress
+1. Updated prop spawn points to auto-scale objects to fit inside the box collider
+
+#### Thoughts
+I was able to get the objects to scale to the right size, but setting their positions based on the center of their bounding box didn't work quite right. Going to try and use the `OnDrawGizmos()` to determine exaclty where the math is wrong.
+
+#### Link(s) to work
+[Scale Prop Preview Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/45546d1f0dcfbfa0b2178e3ae618c6a34c7b6acb)
+
 <!-- Template
 
 
