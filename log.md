@@ -163,6 +163,21 @@ I was able to get the objects to scale to the right size, but setting their posi
 #### Link(s) to work
 [Scale Prop Preview Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/45546d1f0dcfbfa0b2178e3ae618c6a34c7b6acb)
 
+
+### Day 13: January 21, Saturday
+
+#### Today's Progress
+1. Spawned prop previews now properly place themselves onto the prop carousel
+2. Added a tool to the PropType config files that allow me to auto-populate the prop list from a given folder of prefabs
+3. Added a `TrimRegex` properly to the PropType config files that automaticaly trim out parts of the prop names that match the regex
+4. Added all props in the Props folder to the Props config
+
+#### Thoughts
+I almost wasn't able to work on the project tonight, but at the last minute was able to clear out some time. Glad I was able to get in some tools that allow me to skip a lot of hand-editing of individual assets. Now I have tons of them from the SimpleFantasy pack without much work at all.
+
+#### Link(s) to work
+![Properly Placed Props](Captures/Day%20013%20-%20Properly%20Placed%20Props.gif)
+
 <!-- Template
 
 
