@@ -178,6 +178,21 @@ I almost wasn't able to work on the project tonight, but at the last minute was 
 #### Link(s) to work
 ![Properly Placed Props](Captures/Day%20013%20-%20Properly%20Placed%20Props.gif)
 
+
+### Day 14: January 22, Sunday
+
+#### Today's Progress
+1. Updated control of the puppet
+2. Made the kinematic puppet stick change to non-kinematic when certain points are selected
+3. Created a 'skip unlock' component to let the arms and legs move without unlocking the stick
+
+#### Thoughts
+Work is going well. Still hard to find the time to work on this, especially with people around. Have to keep making sacrifices to the sleep god.
+
+#### Link(s) to work
+![Corrected Character Controls](Captures/Day%20014%20-%20Puppet%20Control%20Improvements.gif)
+
+
 <!-- Template
 
 
@@ -189,5 +204,6 @@ I almost wasn't able to work on the project tonight, but at the last minute was 
 #### Thoughts
 
 #### Link(s) to work
+![Explanation](Captures/CaptureName.gif)
 
 -->
