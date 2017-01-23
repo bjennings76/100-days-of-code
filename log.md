@@ -193,6 +193,19 @@ Work is going well. Still hard to find the time to work on this, especially with
 ![Corrected Character Controls](Captures/Day%20014%20-%20Puppet%20Control%20Improvements.gif)
 
 
+### Day 15: January 23, Monday
+
+#### Today's Progress
+1. Started work on a life-size puppet theatre.
+
+#### Thoughts
+Tried out a formal stage with a hidden camera and it seems like the right direction. Really grounds the player on where the camera/audience is.
+
+#### Link(s) to work
+[Puppet Theatre Stage WIP Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/b027d7bc4f5724362e01bdfc5d2cb59bfa75ced0)
+
+
+
 <!-- Template
 
 
