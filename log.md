@@ -205,6 +205,22 @@ Tried out a formal stage with a hidden camera and it seems like the right direct
 [Puppet Theatre Stage WIP Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/b027d7bc4f5724362e01bdfc5d2cb59bfa75ced0)
 
 
+### Day 16: January 24, Tuesday
+
+#### Today's Progress
+1. Finished theatre probuilder geo
+2. Played with lighting
+3. Created a moveable spotlight
+
+#### Thoughts
+It's looking pretty good, but I'm not sure about the audience 'mirror' anymore. It's strange interacting with the back of the puppets... but I'm not sure what would be better. Maybe have them face forward somehow?
+
+I'll playtest it first before I make any more significant layout changes.
+
+#### Link(s) to work
+![Mood Lighting](Captures/Day%20016%20-%20Theatre%20Lighting.gif)
+
+
 
 <!-- Template
 
