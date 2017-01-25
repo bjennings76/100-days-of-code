@@ -221,6 +221,20 @@ I'll playtest it first before I make any more significant layout changes.
 ![Mood Lighting](Captures/Day%20016%20-%20Theatre%20Lighting.gif)
 
 
+### Day 17: January 25, Wednesday
+
+#### Today's Progress
+1. Fixed issue that shrunk down characters
+2. Improved lighting in the scene a bit
+3. Added support for throwing puppets based on velocity
+
+#### Thoughts
+A bit distracted tonight, but I was able to figure out a few things. I think throwing vs sticking to thin air will work well. Exactly what velocity and what constraints that should be done in is yet to be seen, though. Need to remove the sticks when in throwable mode as they tend to burst the puppet's IK apart when it hits the ground.
+
+#### Link(s) to work
+[Throwing Support Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/8b09b642a8c2446d47380547beba5018d4da5450)
+
+
 
 <!-- Template
 
