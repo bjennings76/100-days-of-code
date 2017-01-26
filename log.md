@@ -235,6 +235,18 @@ A bit distracted tonight, but I was able to figure out a few things. I think thr
 [Throwing Support Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/8b09b642a8c2446d47380547beba5018d4da5450)
 
 
+### Day 18: January 26, Thursday
+
+#### Today's Progress
+1. Updated puppets to turn off grab sticks when grabbed by their ragdoll points (chest and head)
+2. When released above the throw velocity threshold, the grab sticks stay hidden
+3. Simplified some underlying code that handled scale and the like.
+
+#### Thoughts
+Kinda went down a rabbit hole on exactly how to handle scaling. There's an issue with Unity's kinematic joints not scaling correctly when an object is instantiated and re-scaled in the same frame. Still need to do more work to get it to work properly in the dispenser.
+
+#### Link(s) to work
+![Tossable Puppets](Captures/Day%20018%20-%20Tossable%20Puppets.gif)
 
 <!-- Template
 
