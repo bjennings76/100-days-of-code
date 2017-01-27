@@ -248,6 +248,19 @@ Kinda went down a rabbit hole on exactly how to handle scaling. There's an issue
 #### Link(s) to work
 ![Tossable Puppets](Captures/Day%20018%20-%20Tossable%20Puppets.gif)
 
+
+### Day 19: January 27, Friday
+
+#### Today's Progress
+1. Added an editor button to the Inspector GUI to test spawning objects
+2. `BoxCollider` and `VRTK_InteractableObject` are now automatically added to props that don't have it when they are grabbed.
+
+#### Thoughts
+Wasn't able to do as much work as I would have liked today. Too tired. Should have more time durng the weekend.
+
+#### Link(s) to work
+![Auto Collision Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/4e0a3b42eebace129eca0028c3e1e377836dbfea)
+
 <!-- Template
 
 
