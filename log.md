@@ -259,7 +259,7 @@ Kinda went down a rabbit hole on exactly how to handle scaling. There's an issue
 Wasn't able to do as much work as I would have liked today. Too tired. Should have more time durng the weekend.
 
 #### Link(s) to work
-![Auto Collision Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/4e0a3b42eebace129eca0028c3e1e377836dbfea)
+[Auto Collision Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/4e0a3b42eebace129eca0028c3e1e377836dbfea)
 
 <!-- Template
 
