@@ -261,6 +261,19 @@ Wasn't able to do as much work as I would have liked today. Too tired. Should ha
 #### Link(s) to work
 [Auto Collision Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/4e0a3b42eebace129eca0028c3e1e377836dbfea)
 
+
+### Day 20: January 28, Saturday
+
+#### Today's Progress
+1. Added visualization of spring joints as strings
+2. Added head controls to puppet handle
+
+#### Thoughts
+It took a bit of experimenting, but recreating real-world interactions like the tried and true marrionette controls seems to be working well.
+
+#### Link(s) to work
+![Strings Attached](Captures/Day%20020%20-%20Strings%20Attached.gif)
+
 <!-- Template
 
 
