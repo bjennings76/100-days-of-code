@@ -274,6 +274,18 @@ It took a bit of experimenting, but recreating real-world interactions like the 
 #### Link(s) to work
 ![Strings Attached](Captures/Day%20020%20-%20Strings%20Attached.gif)
 
+
+### Day 21: January 29, Sunday
+
+#### Today's Progress
+1. Worked on improving interactions with the Prop Carousel.
+
+#### Thoughts
+Overriding the grab behaviour of VRTK has been difficult. I wasn't able to get very far today, but I have a good idea of something new to try tomorrow. Going to try just allowing the player to grab the preview object and not have the slot have any collision at all, but subscribe to the grab event of the object and resize to the desired size when they do. May even be able to give it a cool transition animation.
+
+#### Link(s) to work
+[Grabbing WIP Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/0c18ba0f1a1d01473948a820e2dfe7017911f4e2)
+
 <!-- Template
 
 
