@@ -286,6 +286,20 @@ Overriding the grab behaviour of VRTK has been difficult. I wasn't able to get v
 #### Link(s) to work
 [Grabbing WIP Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/0c18ba0f1a1d01473948a820e2dfe7017911f4e2)
 
+
+### Day 22: January 30, Monday
+
+#### Today's Progress
+1. Finally figured out how to support proper grabbing
+2. Improved system for tracking interactions with Prop Carousel
+
+#### Thoughts
+After struggling to get objects to pull directly out of the Prop Carousel and finally realizing I should just use the actual props, it was great to see it all come together to quickly.
+
+#### Link(s) to work
+![Easy Grab](Captures/Day%20022%20-%20Easy%20Grab.gif)
+
+
 <!-- Template
 
 
