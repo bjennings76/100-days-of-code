@@ -300,6 +300,21 @@ After struggling to get objects to pull directly out of the Prop Carousel and fi
 ![Easy Grab](Captures/Day%20022%20-%20Easy%20Grab.gif)
 
 
+### Day 23: January 31, Tuesday
+
+#### Today's Progress
+1. Started work on snapping objects into puppet hands.
+2. Research VRTK's snap drop points.
+3. Added a cycling 'interest attractor' object.
+4. Some work on snapping.
+
+#### Thoughts
+Got a bit distracted imagining what would attract the player's attention. Got a good solution, but the actual snapping bit isn't working just yet.
+
+#### Link(s) to work
+![Attractor Test](Captures/Day%20023%20-%20Attractor%20Test.gif)
+
+
 <!-- Template
 
 
