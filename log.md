@@ -315,10 +315,23 @@ Got a bit distracted imagining what would attract the player's attention. Got a 
 ![Attractor Test](Captures/Day%20023%20-%20Attractor%20Test.gif)
 
 
+### Day 24: February 1, Wednesday
+
+#### Today's Progress
+1. Experimented more with object snapping
+
+#### Thoughts
+Pretty tired today and wasn't able to get very far. Still not sure why sometimes there is a preview prefab and sometimes there isn't. May be something to do with how things are specifically set up in the preview object. Will look in to it more tomorrow.
+
+#### Link(s) to work
+[Snapping Tests Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/220cf09ff6a8159c8f24a6d8c4d0fdbad7bc6b6c)
+
+
+
 <!-- Template
 
 
-### Day 3: January 11, Wednesday
+### Day 24: February 1, Wednesday
 
 #### Today's Progress
 1. 
