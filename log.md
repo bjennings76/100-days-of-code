@@ -327,6 +327,22 @@ Pretty tired today and wasn't able to get very far. Still not sure why sometimes
 [Snapping Tests Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/220cf09ff6a8159c8f24a6d8c4d0fdbad7bc6b6c)
 
 
+### Day 25: February 2, Thursday
+
+#### Today's Progress
+1. Figured out how to show interaction feedback
+2. Set up puppet hands to hold equipment
+
+#### Thoughts
+There are smaller details that aren't exactly lining up yet, like how to get the drop points to use assigned handles when snapping on equipment. I may need to add a feature to VRTK to get that feature.
+
+I must say, I do enjoy watching the ragdoll physics freak out when it tries to handle too much weirdness.
+
+#### Link(s) to work
+![Why Are You Hitting Yourself?](Captures/Day%20025%20-%20Violent%20Puppet.gif)
+
+
+
 
 <!-- Template
 
