@@ -342,6 +342,19 @@ I must say, I do enjoy watching the ragdoll physics freak out when it tries to h
 ![Why Are You Hitting Yourself?](Captures/Day%20025%20-%20Violent%20Puppet.gif)
 
 
+### Day 26: February 3, Friday
+
+#### Today's Progress
+1. Started work on a prop config format that will allow me to offset things like the handle location.
+
+#### Thoughts
+Not sure if this is the right system for the job, but it would be nice to tweak prefab from package that may update one day.
+
+#### Link(s) to work
+![Prop Detail Support Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/fcaba6f8fa51e9f7f1457d39ca0bfa0d689fb99b)
+
+
+
 
 
 <!-- Template
