@@ -354,7 +354,7 @@ Not sure if this is the right system for the job, but it would be nice to tweak 
 [Prop Detail Support Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/fcaba6f8fa51e9f7f1457d39ca0bfa0d689fb99b)
 
 
-### Day 26: February 3, Friday
+### Day 27: February 4, Saturday
 
 #### Today's Progress
 1. More work on supporting custom offsets for hand-snappable props.
@@ -365,6 +365,18 @@ The work seems to be dragging a bit, but hopefully it will get moving soon. Stil
 
 #### Link(s) to work
 [Hand Snapping Commit (WIP)](https://github.com/bjennings76/unity-vr-puppeteer/commit/d8c2db1bb76af953285fce37efaf2e9c2eaf28cc)
+
+
+### Day 28: February 5, Sunday
+
+#### Today's Progress
+1. Tweaked VRTK to allow a 'precision' snap on a drop zone, so weapons can be placed in arbitrary locations.
+
+#### Thoughts
+Still noodling on exactly how to let the player place weapons on a puppet's hands. Running out of steam, but I think I've got an idea that will work well and not require too much coding.
+
+#### Link(s) to work
+[VRTK Precision Snap Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/b6b6b0ea716d72adb3f0b21dd67c7dd652acc6a5)
 
 
 
