@@ -379,6 +379,19 @@ Still noodling on exactly how to let the player place weapons on a puppet's hand
 [VRTK Precision Snap Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/b6b6b0ea716d72adb3f0b21dd67c7dd652acc6a5)
 
 
+### Day 29: February 6, Monday
+
+#### Today's Progress
+1. Fixed changing room geo on the prop spinner
+2. Looked in to scaling issues with the puppets.
+
+#### Thoughts
+Didn't fully fix the scaling issues yet. Looks like I'll be doing more debugging tomorrow.
+
+#### Link(s) to work
+[Puppet Scaling Bug Work](https://github.com/bjennings76/unity-vr-puppeteer/commit/76fd23056590514f6b8458654c16f518dcb49578)
+
+
 
 
 
