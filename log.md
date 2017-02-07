@@ -392,8 +392,17 @@ Didn't fully fix the scaling issues yet. Looks like I'll be doing more debugging
 [Puppet Scaling Bug Work](https://github.com/bjennings76/unity-vr-puppeteer/commit/76fd23056590514f6b8458654c16f518dcb49578)
 
 
+### Day 30: February 7, Tuesday
 
+#### Today's Progress
+1. Added Playfab Unity SDK
+2. Added Asset Bundle Manager
 
+#### Thoughts
+Wanted to play around with the idea of removing all content and having it download as needed. Today I added some SDKs that should allow me to do that. Will play with them tomorrow.
+
+#### Link(s) to work
+[Playfab Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/a6f0f05308d8e82af45157ec56bbb92d9dde6fe1)
 
 <!-- Template
 
