@@ -404,6 +404,18 @@ Wanted to play around with the idea of removing all content and having it downlo
 #### Link(s) to work
 [Playfab Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/a6f0f05308d8e82af45157ec56bbb92d9dde6fe1)
 
+
+### Day 31: February 8, Wednesday
+
+#### Today's Progress
+1. Created a trash can for throwing away props
+
+#### Thoughts
+Was stuck for a while trying to figure out how to have one interactable object interact with another one when I realized I could just use a drop point like I was doing for the hands and have the drop point itself delete the new object. Worked like a charm! Even had some time to throw in some tweening.
+
+#### Link(s) to work
+![Taking Out the Trash](Captures/Day%20031%20-%20Taking%20Out%20the%20Trash.gif)
+
 <!-- Template
 
 
