@@ -416,6 +416,18 @@ Was stuck for a while trying to figure out how to have one interactable object i
 #### Link(s) to work
 ![Taking Out the Trash](Captures/Day%20031%20-%20Taking%20Out%20the%20Trash.gif)
 
+
+### Day 32: February 9, Thursday
+
+#### Today's Progress
+1. Created a JointScaler component that's supposed to properly scale a ragdoll character.
+
+#### Thoughts
+The attempt didn't really work out. It seems like the anchors scale in the wrong ways, possibly due to how the hierarchy is set up. I'll need to look in to it more.
+
+#### Link(s) to work
+[JointScaler Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/2d2659262e035aa7d64d53318115ea8cfe1ab9bd)
+
 <!-- Template
 
 
