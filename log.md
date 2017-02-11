@@ -428,6 +428,18 @@ The attempt didn't really work out. It seems like the anchors scale in the wrong
 #### Link(s) to work
 [JointScaler Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/2d2659262e035aa7d64d53318115ea8cfe1ab9bd)
 
+
+### Day 33: February 11, Saturday
+
+#### Today's Progress
+1. More work on the JointScaler
+
+#### Thoughts
+I found something that kinda works in terms of scaling stuff, but if you scale too menu, joints get disconnected and weird. Still not sure if I can do this properly. Probably going to have to come up with a solution that doesn't involve scaling when joints are involved.
+
+#### Link(s) to work
+[JointScaler Commit #2](https://github.com/bjennings76/unity-vr-puppeteer/commit/07d047ac8e12e9d761dced53049c2f3d33641692)
+
 <!-- Template
 
 
