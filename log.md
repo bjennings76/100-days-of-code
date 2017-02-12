@@ -440,6 +440,19 @@ I found something that kinda works in terms of scaling stuff, but if you scale t
 #### Link(s) to work
 ![Scaling Issues](Captures/Day%20033%20-%20Scaling%20Issues.gif)
 
+
+### Day 34: February 13, Sunday
+
+#### Today's Progress
+1. Code cleanup
+2. Fixed stand-alone build
+
+#### Thoughts
+Nothing too interesting today. Just cleaned up some code. I may be procrastinating a bit.
+
+#### Link(s) to work
+[Simplified Prop Type Config UI](https://github.com/bjennings76/unity-vr-puppeteer/commit/624e0d0f88ecc455be28ff804c48d2661626411c)
+
 <!-- Template
 
 
