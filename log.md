@@ -441,7 +441,7 @@ I found something that kinda works in terms of scaling stuff, but if you scale t
 ![Scaling Issues](Captures/Day%20033%20-%20Scaling%20Issues.gif)
 
 
-### Day 34: February 13, Sunday
+### Day 34: February 13, Monday
 
 #### Today's Progress
 1. Code cleanup
@@ -452,6 +452,34 @@ Nothing too interesting today. Just cleaned up some code. I may be procrastinati
 
 #### Link(s) to work
 [Simplified Prop Type Config UI](https://github.com/bjennings76/unity-vr-puppeteer/commit/624e0d0f88ecc455be28ff804c48d2661626411c)
+
+
+### Day 35: February 15, Wednesay
+
+#### Today's Progress
+1. Removed the hinge joint on the prop carousel
+2. Modified the carousel spinner so it working in kinematic mode and can't be pushed around.
+3. Created a 'JointToggler' and disabled string joints when in 'unlock' mode.
+
+#### Thoughts
+Had to skip a day due to moving houses and lack of internet connection. Still at it, though! This is really 2 days worth of work.
+
+#### Link(s) to work
+[Disabled Joints Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/94d257ffcde08afc7b13b9ab69347f85feb75b83)
+
+
+### Day 36: February 16, Thursday
+
+#### Today's Progress
+1. Cleaned up the `JointToggler` some more.
+2. Added support for actual size props on the prop carousel
+3. Set up Character props to use actual size.
+
+#### Thoughts
+Well, I have life-sized props all right, but they collide with the wall and freak out when I spin the carousel. I'll need the props to ignore colliders or remove collision around the props somehow so it spins nicely once again. That'll be tomorrow, though.
+
+#### Link(s) to work
+![Puppet Collision Madness](Captures/Day%20036%20-%20Puppet%20Collision%20Madness.gif)
 
 <!-- Template
 
