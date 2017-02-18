@@ -481,6 +481,20 @@ Well, I have life-sized props all right, but they collide with the wall and frea
 #### Link(s) to work
 ![Puppet Collision Madness](Captures/Day%20036%20-%20Puppet%20Collision%20Madness.gif)
 
+
+### Day 37: February 18, Saturday
+
+#### Today's Progress
+1. Fixed up carousel spin by removing collision
+2. Fixed how puppets are handled when they are grabbed off the carousel
+3. Puppets now have their controls enabled as you would expect.
+
+#### Thoughts
+Loosing motivation to get stuff done, but once I'm doing it, I do still enjoy it. Especially when it works! Still some problems with the carousel model swap, but I'm happy the characters are working well after all this time! It is too bad I wasn't able to get them to scale down as I would have liked.
+
+#### Link(s) to work
+![Working Puppets from Carousel](Captures/Day%20037%20-%20Working%20Puppet%20Carousel.gif)
+
 <!-- Template
 
 
