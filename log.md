@@ -495,6 +495,18 @@ Loosing motivation to get stuff done, but once I'm doing it, I do still enjoy it
 #### Link(s) to work
 ![Working Puppets from Carousel](Captures/Day%20037%20-%20Working%20Puppet%20Carousel.gif)
 
+
+### Day 38: February 19, Sunday
+
+#### Today's Progress
+1. Fixed up carousel's model swapping by repairing the Angle propertly
+
+#### Thoughts
+Looks like the angle broke after the refactor that removed the collision. I wasn't able to do much today due to a lot of unpacking and not much motivation, but I am happy that the experience is starting to become usable.
+
+#### Link(s) to work
+[Carousel Model Swap Fix Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/cc84e33e620f0f38a316af1fbb7818ecba0a70c9)
+
 <!-- Template
 
 
