@@ -507,6 +507,18 @@ Looks like the angle broke after the refactor that removed the collision. I wasn
 #### Link(s) to work
 [Carousel Model Swap Fix Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/cc84e33e620f0f38a316af1fbb7818ecba0a70c9)
 
+
+### Day 39: February 20, Monday
+
+#### Today's Progress
+1. Improved prop carousel spinning interaction
+
+#### Thoughts
+The stop-start of the prop carousel was really bothering me, so I dedicated some time to cleaning it up. It spins much more smoothly now. Aaaaah.
+
+#### Link(s) to work
+![Smooth Carousel Spin](Captures/Day%20039%20-%20Smoother%20Spinning.gif)
+
 <!-- Template
 
 
