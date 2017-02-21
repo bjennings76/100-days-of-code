@@ -519,6 +519,20 @@ The stop-start of the prop carousel was really bothering me, so I dedicated some
 #### Link(s) to work
 ![Smooth Carousel Spin](Captures/Day%20039%20-%20Smoother%20Spinning.gif)
 
+
+### Day 40: February 21, Tuesday
+
+#### Today's Progress
+1. Started work on a 'Puppet Possession' mode.
+
+#### Thoughts
+Wasn't sure exactly where to go next. Floundered a bit as I didn't originally have access to the VR equipment and didn't have an idea of what I could do without testing in VR. Once I did get access, I still wasn't sure exactly what to focus on. The backlog showed a cool idea of becoming the puppet with a button press, so I'm trying that out.
+
+Perhaps the player can become one with the puppet by simply putting their face into the puppet?
+
+#### Link(s) to work
+[Puppet Possession Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/c1a3b53876f1cc14f38d9656498d6b99844d5983)
+
 <!-- Template
 
 
