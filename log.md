@@ -533,6 +533,20 @@ Perhaps the player can become one with the puppet by simply putting their face i
 #### Link(s) to work
 [Puppet Possession Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/c1a3b53876f1cc14f38d9656498d6b99844d5983)
 
+
+### Day 41: February 22, Wednesday
+
+#### Today's Progress
+1. Finished first pass on 'Puppet Possession' mode
+
+#### Thoughts
+It was a bit difficult to see how to properly interact with the controller. Luckily VRTK had a bunch of easy-access features for me to use to track down the controllers.
+
+On the interaction itself, it's really interesting to change your scale. May need to explore that more. Ideally, you wouldn't see any of the head geometry, but I don't think there's a way to just hide the head of the puppet without scaling it down or something. I may have to hide the entire puppet from the player's perspective and only show it in the mirror. Wouldn't be as fun, alas.
+
+#### Link(s) to work
+![Taking Possession](Captures/Day%20041%20-%20Taking%20Possession.gif)
+
 <!-- Template
 
 
