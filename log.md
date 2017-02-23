@@ -547,6 +547,20 @@ On the interaction itself, it's really interesting to change your scale. May nee
 #### Link(s) to work
 ![Taking Possession](Captures/Day%20041%20-%20Taking%20Possession.gif)
 
+
+### Day 42: February 23, Thursday
+
+#### Today's Progress
+1. Fixed an issue with Possession Model position offset in fixed joints
+
+#### Thoughts
+Took me longer than I would care to admit to realize I needed to move one line of code down 2 lines, but I finally fixed the issue. Had to rotate first, THEN calculate the offset or visa versa. Can't do both calculations then both assignments or they'll get wonky.
+
+Also, I'm under the weather, so I don't have much stamina for further work tonight.
+
+#### Link(s) to work
+[Fixed Offset Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/36ab8cdcc6a368862b136c160349f7b924802ebd)
+
 <!-- Template
 
 
