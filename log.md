@@ -561,17 +561,15 @@ Also, I'm under the weather, so I don't have much stamina for further work tonig
 #### Link(s) to work
 [Fixed Offset Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/36ab8cdcc6a368862b136c160349f7b924802ebd)
 
-<!-- Template
 
-
-### Day 24: February 1, Wednesday
+### Day 43: February 25, Saturday
 
 #### Today's Progress
-1. 
+1. Implemented backdrop swapping
+2. Refactored the Prop class a bit to better handle special-case props like the backdrop.
 
 #### Thoughts
+I'm up way too late, especially since I still have a cold, but it was fun to work through the various changes necessary to allow the special cases of backdrops to work with the prop system. The additions have improved and actually simplified the system in some places which is a pleasant surprise.
 
 #### Link(s) to work
-![Explanation](Captures/CaptureName.gif)
-
--->
+![Background Swapping](Captures/Day%20043%20-%20Background%20Swapping.gif)
