@@ -573,3 +573,16 @@ I'm up way too late, especially since I still have a cold, but it was fun to wor
 
 #### Link(s) to work
 ![Background Swapping](Captures/Day%20043%20-%20Background%20Swapping.gif)
+
+
+### Day 44: February 27, Monday
+
+#### Today's Progress
+1. Tried out backdrops with 3D assets - almost worked without changes!
+2. Made changes to remove interaction from backdrops so I will no longer accidentally grab them after they are placed.
+
+#### Thoughts
+Man, that cold really knocked me out over the weekend, but I'm feeling much better now. Glad to be making some progress again. (I do wish I would start it a bit earlier though so I could get myself some more sleep.)
+
+#### Link(s) to work
+![3D Backdrops](Captures/Day%20044%20-%203D%20Backgrounds.gif)
