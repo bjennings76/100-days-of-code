@@ -586,3 +586,18 @@ Man, that cold really knocked me out over the weekend, but I'm feeling much bett
 
 #### Link(s) to work
 ![3D Backdrops](Captures/Day%20044%20-%203D%20Backgrounds.gif)
+
+
+### Day 45: February 28, Tuesday
+
+#### Today's Progress
+1. Refactored the Prop/PropSlot class relationships a bit so the Prop handles more of it's own stuff
+2. Got the BackdropProp to tween itself into place nicely
+
+#### Thoughts
+It was nice to clean up the code a bit. PropSlot, BackdropProp, and Prop classes are all under 100 lines now and still read well, I think. There was some inheritence trickery I wasn't happy with regarding overriding a lower-level method so it wouldn't play a specific default transition. Not sure how to cleanly handle it, though. I'll need to noodle on that for a bit longer.
+
+I did notice I sorta ruined the 2D background line-ups, though. I'll have to look at what's going on with that tomorrow.
+
+#### Link(s) to work
+[Backdrop Transitions Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/cda92b428057eb3f8055eaa3676b7c26a8c74863)
