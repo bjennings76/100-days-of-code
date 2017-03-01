@@ -601,3 +601,15 @@ I did notice I sorta ruined the 2D background line-ups, though. I'll have to loo
 
 #### Link(s) to work
 [Backdrop Transitions Commit](https://github.com/bjennings76/unity-vr-puppeteer/commit/cda92b428057eb3f8055eaa3676b7c26a8c74863)
+
+
+### Day 46: March 1, Wednesday
+
+#### Today's Progress
+1. Continued yesterday's work with cleaning up the background transisions
+
+#### Thoughts
+I think the transitions are in a good place! Tomorrow I'll look into better item attachement and interactions with the hands.
+
+#### Link(s) to work
+![Backdrop Transitions](Captures/Day%20046%20-%20Smooth%20Background%20Transitions.gif)
