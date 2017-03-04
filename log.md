@@ -613,3 +613,15 @@ I think the transitions are in a good place! Tomorrow I'll look into better item
 
 #### Link(s) to work
 ![Backdrop Transitions](Captures/Day%20046%20-%20Smooth%20Background%20Transitions.gif)
+
+
+### Day 47: March 3, Friday
+
+#### Today's Progress
+1. Upgraded VRTK to v.3.1.0
+
+#### Thoughts
+Wasn't able to get too much done except a bit of house keeping.
+
+#### Link(s) to work
+[VRTK Upgrade Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/5c2295f6d3d6fac4fdfc0f93c6b574d999e8f88b)
