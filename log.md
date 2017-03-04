@@ -625,3 +625,15 @@ Wasn't able to get too much done except a bit of house keeping.
 
 #### Link(s) to work
 [VRTK Upgrade Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/5c2295f6d3d6fac4fdfc0f93c6b574d999e8f88b)
+
+
+### Day 48: March 4, Saturday
+
+#### Today's Progress
+1. Implemented 'maintain offset' in VRTK scripts
+
+#### Thoughts
+I needed to re-implement my 'maintain offset' option into the new VRTK scripts. Did a much better job this time around. May submit it as an option to the VRTK repo when I get a chance.
+
+#### Link(s) to work
+[Maintain Offset in VRTK Snap Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/8ecce4cbccea800a3d56a09bf53e3e5e6fd164ef)
