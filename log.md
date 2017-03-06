@@ -645,19 +645,7 @@ I needed to re-implement my 'maintain offset' option into the new VRTK scripts. 
 1. Some bug fixes in the main scene
 
 #### Thoughts
-I needed to re-implement my 'maintain offset' option into the new VRTK scripts. Did a much better job this time around. May submit it as an option to the VRTK repo when I get a chance.
-
-#### Link(s) to work
-[Maintain Offset in VRTK Snap Checkin](
-
-### Day 48: March 4, Saturday
-
-#### Today's Progress
-1. Implemented 'maintain offset' in VRTK scripts
-
-#### Thoughts
 Not much work today, alas. Was able to check in a fix for the scene, though.
 
 #### Link(s) to work
 [Main Scene Fixes Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/8ecce4cbccea800a3d56a09bf53e3e5e6fd164ef)
-)
