@@ -649,3 +649,15 @@ Not much work today, alas. Was able to check in a fix for the scene, though.
 
 #### Link(s) to work
 [Main Scene Fixes Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/8ecce4cbccea800a3d56a09bf53e3e5e6fd164ef)
+
+
+### Day 50: March 7, Tuesday
+
+#### Today's Progress
+1. Added `UnlockOnThrow` component to allow simple props to lock in place or be thrown based on release velocity
+
+#### Thoughts
+The `UnlockOnThrow` component works fairly well, but it break the weapon props snapping into puppet hands. I'll need to figure that out next time.
+
+#### Link(s) to work
+[UnlockOnThrow Component Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/eef7d39989d6078f2c06853605d88af436713c36)
