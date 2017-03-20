@@ -661,3 +661,15 @@ The `UnlockOnThrow` component works fairly well, but it break the weapon props s
 
 #### Link(s) to work
 [UnlockOnThrow Component Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/eef7d39989d6078f2c06853605d88af436713c36)
+
+
+### Day 51: March 20, Monday
+
+#### Today's Progress
+1. Upgraded VRTK to latest in github repo
+
+#### Thoughts
+Was on vacation for a week (plus a bit of Zelda time, truth be told). It made for a nice little mid-way break, but now I'm back and ready for action.
+
+#### Link(s) to work
+[VRTK Upgrade Checkin](https://github.com/bjennings76/unity-vr-puppeteer/commit/09c13000a6bf5236066107769f30f2ffdee0ed36)
